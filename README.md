@@ -47,14 +47,16 @@ A segunda tarefa é buscar todos os passos da trilha, e mostrar na tela o títul
 
 A terceira tarefa é implementar um botão para criar um novo passo. Podendo passar o id, o título e o conteúdo do passo. Ao clicar em criar, deve adicionar esse passo no banco. 
 
-A parte visual das tarefas deve usar TailwindCSS e seguir o design do Figma (copie o projeto para sua conta do Figma e acione o modo dev do Figma para ver as propriedades CSS): https://www.figma.com/file/FDIkxUdJuq034npFEcurBi/Cognittron---Teste-Dev-01
+A parte visual das tarefas deve usar React / TailwindCSS e seguir o design do Figma (copie o projeto para sua conta do Figma e acione o modo dev do Figma para ver as propriedades CSS): https://www.figma.com/file/FDIkxUdJuq034npFEcurBi/Cognittron---Teste-Dev-01
 
 ### A entrega
 
 Ao finalizar as tarefas, envie o link do repositório público Github para diogo@cognita.com.br com o assunto "Teste de programação Cognita - Seu Nome". O prazo é até dia 12/05/2024 às 22h, no horário de Brasília. Se quiser pode usar typescript ou não, como preferir, todo o código deve estar em inglês, e a rota deve estar funcionando, ou seja, quando dermos `npm run dev`, deve rodar o server, e a rota `http://localhost:3000/explore/trail-1` precisa estar funcionando sem erros e visualmente como no Figma.
 
 
-### O pipeline Remix + Neo4j
+### O pipeline React + Remix + Neo4j
+
+Para aprender sobre React: https://react.dev/learn
 
 Para começar com o Remix: https://remix.run/docs/en/main/start/quickstart
 
